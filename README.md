@@ -13,4 +13,8 @@
   <td> 2 </td>
   <td><a href="https://frill-frost-b7a.notion.site/Day2-524840e873294c6c8c3a26fe2ee73481">Day 2 Git&GitHub, PEH, WordPress Plugin Tesitng</a></td>
  </tr>
+ <tr>
+  <td> 3 </td>
+  <td><a href="https://frill-frost-b7a.notion.site/Day-3-7e53904b91964a83bacf55f0e4799436">Day 3 Cisco CyberOps </a></td>
+ </tr>
  </table>
